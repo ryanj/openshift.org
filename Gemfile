@@ -44,4 +44,17 @@ gem 'asciidoctor', '>= 0.1.1'                           # If using AsciiDoc synt
 gem 'kramdown', '>= 0.14.2'                             # If using Markdown
 # gem 'uglifier', '>= 1.3.0'                              # If using the minify transformer
 # gem 'htmlcompressor', '>= 0.0.3'                        # If using the minify transformer
-
+gem 'celluloid', '>= 0.16.0'
+gem 'sinatra'
+gem 'org-ruby', '>= 0.9.12'
+gem 'RedCloth', '>= 4.2.9'
+gem 'markaby', '>= 0.8.0'
+gem 'creole', '>= 0.5.0'
+gem 'liquid', '>= 3.0.1'
+gem 'wikicloth', '>= 0.8.2'
+gem 'tilt', '>= 2.0.1'
+gem 'radius', '>= 0.7.4'
+gem 'yajl-ruby', require: 'yajl'
+gem 'less', '>= 2.6.0'
+gem 'commonjs', '>= 0.2.7'
+gem 'therubyracer', '>= 0.12.1'
